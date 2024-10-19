@@ -1,15 +1,18 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
     return (
-        <header className="bg-blue-600 text-white p-4">
-            <nav className="container mx-auto flex justify-between items-center">
-                <h1 className="text-2xl font-bold">Galleta Fallecida</h1>
-                <ul className="flex space-x-4">
-                    <li><a href="#" className="hover:underline">Inicio</a></li>
-                    <li><a href="#" className="hover:underline">Acerca</a></li>
-                    <li><a href="#" className="hover:underline">Contacto</a></li>
-                </ul>
+        <header className="bg-gray-800 text-white p-4">
+            <nav className="flex justify-between">
+                <Link to="/admin-pad">
+                    <h1 className="text-xl">Galleta Fallecida</h1>
+                </Link>
+                <div>
+                    <Link to="/" className="mr-4">Inicio</Link>
+                    <Link to="/acerca-de" className="mr-4">Acerca de</Link>
+                    <Link to="/contactanos" className="mr-4">Contáctanos</Link>
+                </div>
             </nav>
         </header>
     );
