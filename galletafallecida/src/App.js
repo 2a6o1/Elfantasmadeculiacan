@@ -9,7 +9,7 @@ import AdminPad from './components/AdminPad';
 
 function App() {
     return (
-        <Router>
+        <Router basename="/Elfantasmadeculiacan"> {/* Asegúrate de añadir el basename aquí */}
             <div className="min-h-screen flex flex-col">
                 <Header />
 

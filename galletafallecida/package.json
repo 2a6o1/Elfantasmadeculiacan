@@ -2,6 +2,7 @@
   "name": "galletafallecida",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://2a6o1.github.io/Elfantasmadeculiacan/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
