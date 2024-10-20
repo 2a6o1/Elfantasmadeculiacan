@@ -5,7 +5,7 @@ node_modules/
 build/
 
 # Archivos de configuración de entorno
-../.env
+.env
 .env.local
 .env.development.local
 .env.test.local
