@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.21944af4.css",
-    "main.js": "/static/js/main.61cdd9e5.js",
-    "static/js/453.ad0aeecc.chunk.js": "/static/js/453.ad0aeecc.chunk.js",
-    "index.html": "/index.html",
-    "main.21944af4.css.map": "/static/css/main.21944af4.css.map",
-    "main.61cdd9e5.js.map": "/static/js/main.61cdd9e5.js.map",
-    "453.ad0aeecc.chunk.js.map": "/static/js/453.ad0aeecc.chunk.js.map"
+    "main.css": "/Elfantasmadeculiacan/static/css/main.21944af4.css",
+    "main.js": "/Elfantasmadeculiacan/static/js/main.68042b0c.js",
+    "static/js/453.ad0aeecc.chunk.js": "/Elfantasmadeculiacan/static/js/453.ad0aeecc.chunk.js",
+    "index.html": "/Elfantasmadeculiacan/index.html",
+    "main.21944af4.css.map": "/Elfantasmadeculiacan/static/css/main.21944af4.css.map",
+    "main.68042b0c.js.map": "/Elfantasmadeculiacan/static/js/main.68042b0c.js.map",
+    "453.ad0aeecc.chunk.js.map": "/Elfantasmadeculiacan/static/js/453.ad0aeecc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21944af4.css",
-    "static/js/main.61cdd9e5.js"
+    "static/js/main.68042b0c.js"
   ]
 }
