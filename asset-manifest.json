@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Elfantasmadeculiacan/static/css/main.21944af4.css",
-    "main.js": "/Elfantasmadeculiacan/static/js/main.68042b0c.js",
+    "main.js": "/Elfantasmadeculiacan/static/js/main.c310929d.js",
     "static/js/453.ad0aeecc.chunk.js": "/Elfantasmadeculiacan/static/js/453.ad0aeecc.chunk.js",
     "index.html": "/Elfantasmadeculiacan/index.html",
     "main.21944af4.css.map": "/Elfantasmadeculiacan/static/css/main.21944af4.css.map",
-    "main.68042b0c.js.map": "/Elfantasmadeculiacan/static/js/main.68042b0c.js.map",
+    "main.c310929d.js.map": "/Elfantasmadeculiacan/static/js/main.c310929d.js.map",
     "453.ad0aeecc.chunk.js.map": "/Elfantasmadeculiacan/static/js/453.ad0aeecc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21944af4.css",
-    "static/js/main.68042b0c.js"
+    "static/js/main.c310929d.js"
   ]
 }
